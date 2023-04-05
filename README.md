@@ -33,7 +33,7 @@
 
 ###  📧 Contato
   
-  [![Linkedin Badge](https://img.shields.io/badge/-WesleyMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-medeiros-694809196/)](https://www.linkedin.com/in/wesley-medeiros-694809196/) [![Gmail Badge](https://img.shields.io/badge/-wesley.medeiros6938@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=wesley.medeiros6938@gmail.com)](wesley.medeiros6938@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-WesleyMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-medeiros-694809196/)](https://www.linkedin.com/in/wesley-medeiros-694809196/) [![Gmail Badge](https://img.shields.io/badge/-wmedeiros.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=wmedeiros.dev@gmail.com)](wmedeiros.dev@gmail.com)
 
 
 
