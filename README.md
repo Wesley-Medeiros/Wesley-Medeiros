@@ -1,19 +1,24 @@
-<h2> Hello, world! Meu nome é Wesley <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-
-
-- 🏛️ Cursando Análise e Desenvolvimento de Sistemas 🖥
-- 🔍 Desenvolvimento web Front-End/Back-End;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Wesley+Medeiros;I'm+23+years+old;I+from+Brazil,+PE;I'm+Front-end+developer;I+study+analysis+and+systems+development+at+FBV;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
-<div align="center">
-  <a href="https://github.com/Wesley-Medeiros">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wesley-Medeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Medeiros&layout=compact&langs_count=7&theme=dark"/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wesley-Medeiros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wesley Medeiros github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Medeiros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## 
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wesley-Medeiros&theme=gotham)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wesley-Medeiros}/count.svg" /></p> 
+<br></div>
+
+##
   
   ###  🖥️ Tecnologias
 
@@ -31,13 +36,14 @@
 
 ##
 
+
 ###  📧 Contato
   
  <a href="https://www.linkedin.com/in/wesley-medeiros-694809196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:wmedeiros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!--
 **Wesley-Medeiros/Wesley-Medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
