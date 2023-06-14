@@ -11,7 +11,7 @@
 </div>
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wesley-Medeiros&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wesley-Medeiros&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
